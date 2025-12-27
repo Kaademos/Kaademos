@@ -18,7 +18,6 @@ My mission is to transform security from a bottleneck into a business enabler, a
 * Developing Hokage - A Unified Application Security Platform.
 * Creating secure-by-default libraries and frameworks for developers.
 * Enhancing security education and champion programs.
-* Developing Fullkrux - a containerized background service that continuously ingests vulnerabilities from multiple security scanning tools.
 
 ---
 
@@ -26,7 +25,7 @@ My mission is to transform security from a bottleneck into a business enabler, a
 
 > **[Kaademos/asvs-compliance-starter-kit](https://github.com/Kaademos/asvs-compliance-starter-kit)** > A practical, open-source toolkit of templates and documentation for integrating ASVS into your SDLC.
 
-> **[hokage-sec/hokage-platform](https://github.com/hokage-sec/hokage-platform)** > A Unified Application Security Platform.
+> **[Kademos/kademos-yggdrasil](https://github.com/Kaademos/kadmos-yggdrasil)** > A Vulnerable-by-Design Cybersecurity Training Platform.
 
 ---
 
