@@ -25,7 +25,7 @@ My mission is to transform security from a bottleneck into a business enabler, a
 
 > **[Kaademos/asvs-compliance-starter-kit](https://github.com/Kaademos/asvs-compliance-starter-kit)** > A practical, open-source toolkit of templates and documentation for integrating ASVS into your SDLC.
 
-> **[Kademos/kademos-yggdrasil](https://github.com/Kaademos/kadmos-yggdrasil)** > A Vulnerable-by-Design Cybersecurity Training Platform.
+> **[https://github.com/Kaademos/kadmos-yggdrasil](https://github.com/Kaademos/kademos-yggdrasil)** > A Vulnerable-by-Design Cybersecurity Training Platform.
 
 ---
 
