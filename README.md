@@ -15,19 +15,18 @@ My mission is to transform security from a bottleneck into a business enabler, a
 ### 🌱 My Current Focus
 
 * Automating security controls within CI/CD pipelines (DevSecOps).
-* Developing ThreatFlow - a developer-centric threat modeling platform built around Adam Shostack’s Four Questions framework.
+* Developing Hokage - A Unified Application Security Platform.
 * Creating secure-by-default libraries and frameworks for developers.
-* Developing Harmonia - A platform for operationalizing the OWASP Application Security Verification Standard (ASVS) 5.0.
 * Enhancing security education and champion programs.
 * Developing Fullkrux - a containerized background service that continuously ingests vulnerabilities from multiple security scanning tools.
 
 ---
 
-### 📌 Pinned Project: ASVS Compliance Starter Kit
-
-I am the creator and maintainer of the **ASVS Compliance Starter Kit**, an open-source project designed to help engineering teams of all sizes operationalize the OWASP ASVS 5.0 standard.
+### 📌 Pinned Project:
 
 > **[Kaademos/asvs-compliance-starter-kit](https://github.com/Kaademos/asvs-compliance-starter-kit)** > A practical, open-source toolkit of templates and documentation for integrating ASVS into your SDLC.
+
+> **[hokage-sec/hokage-platform](https://github.com/hokage-sec/hokage-platform)** > A Unified Application Security Platform.
 
 ---
 
