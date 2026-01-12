@@ -24,8 +24,8 @@ My mission is to transform security from a bottleneck into a business enabler, a
 ### 📌 Pinned Project:
 
 > **[Kaademos/asvs-compliance-starter-kit](https://github.com/Kaademos/asvs-compliance-starter-kit)** > A practical, open-source toolkit of templates and documentation for integrating ASVS into your SDLC.
-
 > **[Kaademos/kadmos-yggdrasil](https://github.com/Kaademos/kademos-yggdrasil)** > A Vulnerable-by-Design Cybersecurity Training Platform.
+> **[meethokage/hokage](https://github.com/meethokage/hokage-platform)** > An open-source, unified application security solution designed to simplify AppSec for SMEs and development teams.
 
 ---
 
