@@ -15,7 +15,7 @@ My mission is to transform security from a bottleneck into a business enabler, a
 ### 🌱 My Current Focus
 
 * Automating security controls within CI/CD pipelines (DevSecOps).
-* Developing Hokage - A Unified Application Security Platform.
+* Developing Kekkai - A Unified Application Security Platform.
 * Creating secure-by-default libraries and frameworks for developers.
 * Enhancing security education and champion programs.
 
@@ -27,7 +27,7 @@ My mission is to transform security from a bottleneck into a business enabler, a
 
 > **[Kaademos/kadmos-yggdrasil](https://github.com/Kaademos/kademos-yggdrasil)** > A Vulnerable-by-Design Cybersecurity Training Platform.
 
-> **[meethokage/hokage](https://github.com/meethokage/hokage-platform)** > An open-source, unified application security solution designed to simplify AppSec for SMEs and development teams.
+> **[kademoslabs/kekkai-cli](https://github.com/kademoslabs/kekkai-cli)** > An open-source, unified application security solution designed to simplify AppSec for SMEs and development teams.
 
 ---
 
