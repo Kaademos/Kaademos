@@ -25,7 +25,7 @@ My mission is to transform security from a bottleneck into a business enabler, a
 
 > **[Kaademos/kademos](https://github.com/Kaademos/kademos)** > A open-source toolkit analyzes your codebase, detects capabilities (frameworks, databases, file uploads, WebSockets), and generates exact ASVS 5.0 functional requirements.
 
-> **[Kaademos/kademos-yggdrasil](https://github.com/Kaademos/kademos-yggdrasil)** > A Vulnerable-by-Design Cybersecurity Training Platform.
+> **[Kaademos/secure-sdlc-agents](https://github.com/Kaademos/secure-sdlc-agents)** > specialised Claude Code sub-agents that bring security expertise into every phase of the software development lifecycle.
 
 > **[kademoslabs/kekkai-cli](https://github.com/kademoslabs/kekkai-cli)** > An open-source, unified application security solution designed to simplify AppSec for SMEs and development teams.
 
